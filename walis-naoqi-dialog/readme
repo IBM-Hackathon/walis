@@ -1,0 +1,7 @@
+watson visual recognition 
+
+{
+  "url": "https://gateway-a.watsonplatform.net/visual-recognition/api",
+  "note": "It may take up to 5 minutes for this key to become active",
+  "api_key": "b949223dd6437bdcb9aa137d656dda1c27c61c1c"
+}
