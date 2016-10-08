@@ -5,3 +5,7 @@ watson visual recognition
   "note": "It may take up to 5 minutes for this key to become active",
   "api_key": "b949223dd6437bdcb9aa137d656dda1c27c61c1c"
 }
+
+-> the good one
+
+curl -X POST -F "images_file=@IMG_20161008_234726.jpg" "https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?api_key=9c810f2b59110ecd1d3496e64907b91960e977e8&version=2016-05-20&classifier_ids=pills_719796643"
