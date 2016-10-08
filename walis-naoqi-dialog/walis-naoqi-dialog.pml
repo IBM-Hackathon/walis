@@ -7,6 +7,8 @@
     <Dialogs />
     <Resources>
         <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
+        <File name="readme" src="readme" />
+        <File name="court-boom" src="behavior_1/court-boom.wav" />
     </Resources>
     <Topics />
     <IgnoredPaths />
