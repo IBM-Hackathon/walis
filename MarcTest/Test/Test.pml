@@ -5,7 +5,10 @@
         <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
-    <Resources />
+    <Resources>
+        <File name="hello_world" src="hello_world.wav" />
+        <File name="" src=".DS_Store" />
+    </Resources>
     <Topics />
     <IgnoredPaths />
 </Package>
