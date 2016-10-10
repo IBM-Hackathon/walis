@@ -6,7 +6,7 @@ Walis is the result of a 24h hackathon hosted by IBM and partners in Hamburg aro
 * Video demo coming soon
 * Code: [github](https://github.com/IBM-Hackathon/walis)
 * Presentation coming soon
-* Twitter Impresions: [Hashtag](https://twitter.com/search?q=%23walis%20since%3A2016-10-07&src=typd) & [team page](https://twitter.com/Walis2016
+* Twitter [team page](https://twitter.com/Walis2016) and [hashtag](https://twitter.com/search?q=%23walis%20since%3A2016-10-07&src=typd)
 
 # Team Members
 
