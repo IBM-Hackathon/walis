@@ -4,7 +4,7 @@ Walis is a roboter to support Alzheimer patients in their daily life. It will re
 Walis is the result of a 24h hackathon hosted by IBM and partners in Hamburg around the topic IBM Watson & healthcare.  
 
 * Video demo coming soon
-* Code: [github] https://github.com/IBM-Hackathon/walis
+* Code: [github](https://github.com/IBM-Hackathon/walis)
 * Presentation coming soon
 * Twitter Impresions: [Hashtag](https://twitter.com/search?q=%23walis%20since%3A2016-10-07&src=typd) & [team page](https://twitter.com/Walis2016
 
